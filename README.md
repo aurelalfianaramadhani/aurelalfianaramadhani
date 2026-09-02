@@ -22,6 +22,16 @@ Saya seorang perempuan yang percaya bahwa **desain** dan **kreativitas** bisa be
 
 ---
 
+## 🎓 Pendidikan
+
+<div align="center">
+
+🎓 **Mahasiswa Teknik** — Sedang menuntut ilmu dan mengejar mimpi jadi Mbak-Mbak Teknik yang berkarisma!
+
+</div>
+
+---
+
 ## 🛠️ Skill Set
 
 <div align="center">
@@ -33,6 +43,24 @@ Saya seorang perempuan yang percaya bahwa **desain** dan **kreativitas** bisa be
 | Thumbnail Design | UI/UX Design | Problem Solver |
 | Branding & Logo | Content Creation | Random Thinking 🎲 |
 | | | Traveling ✈️ |
+| | | Kepo Dunia Sains 🔬 |
+
+</div>
+
+---
+
+## 🧰 Tools & Aplikasi
+
+<div align="center">
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 </div>
 
@@ -43,10 +71,39 @@ Saya seorang perempuan yang percaya bahwa **desain** dan **kreativitas** bisa be
 <div align="center">
 
 ```
-🎯 MENJADI MBAK-MBASK TEKNIK YANG BERKARISMA
+🎯 MENJADI MBAK-MBAK TEKNIK YANG BERKARISMA
    "Perempuan kuat di dunia teknik,
     lembut dalam berkarya, & berani dalam bermimpi."
 ```
+
+</div>
+
+---
+
+## 🤪 Fun Facts About Me
+
+<div align="center">
+
+🍳 | Suka masak tapi kadang hasilnya eksperimen baru
+--- | ---
+🎨 | Desain di Canva sambil dengerin musik
+🧠 | Kepo tentang apapun — dari sains sampai drama Korea
+✈️ | Mimpi bisa traveling keliling Indonesia
+🎲 | Mood-nya bisa berubah kayak cuaca Panceng
+
+</div>
+
+---
+
+## 💬 Motto Hidup
+
+<div align="center">
+
+> 🔥 *"Jadilah perempuan yang tidak hanya pintar, tapi juga berani bermimpi!"*
+
+> 💪 *"Gagal itu biasa, yang gak biasa itu berhenti coba!"*
+
+> 🌟 *"Kreativitas tanpa batas, semangat tanpa akhir!"*
 
 </div>
 
@@ -76,6 +133,20 @@ Saya seorang perempuan yang percaya bahwa **desain** dan **kreativitas** bisa be
 
 > *"Tidak ada yang tidak mungkin, selagi kita mau berusaha."*
 
+> *"Perempuan hebat tidak lahir dari keberuntungan, tapi dari kerja keras dan keberanian!"*
+
+---
+
+## 🎁 Support Me
+
+<div align="center">
+
+[![Saweria](https://img.shields.io/badge/Saweria-FFCD00?style=for-the-badge&logo=saweria&logoColor=black)](https://saweria.co/aurelalfiana)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aurelalfiana)
+[![Trakteer](https://img.shields.io/badge/Trakteer-EE4D2D?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/aurelalfiana)
+
+</div>
+
 ---
 
 ## 📫 Hubungi Saya
@@ -85,6 +156,8 @@ Saya seorang perempuan yang percaya bahwa **desain** dan **kreativitas** bisa be
 [![Email](https://img.shields.io/badge/Email-D63384?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurelalfiana@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurelalfiana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aurelalfiana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aurelalfiana)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@aurelalfiana)
 
 </div>
 
@@ -98,19 +171,3 @@ Saya seorang perempuan yang percaya bahwa **desain** dan **kreativitas** bisa be
 
 </div>
 
-## Hi there 👋
-
-<!--
-**aurelalfianaramadhani/aurelalfianaramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
